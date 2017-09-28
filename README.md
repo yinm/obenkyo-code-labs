@@ -1,1 +1,1 @@
-# obenkyo-code-labs
+[PWAR 10 - Code Labs (v7)](https://docs.google.com/presentation/d/1LKKWqXu83qppVmSsYBHV7k5rjZGvmXQnKOCb_fmFhmA/edit#slide=id.g1dc6fb4722_2_72)をやっています。
